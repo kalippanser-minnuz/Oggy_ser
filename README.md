@@ -24,7 +24,7 @@ src="IMG_20211118_113958.jpg" alt="IMG" width="220" height="200"/>
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Raashii/ZaraMwol-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalippanser-minnuz/bot-setting.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalippanser-minnuz/Oggy_ser.git)
 
 - - -
 </p>
